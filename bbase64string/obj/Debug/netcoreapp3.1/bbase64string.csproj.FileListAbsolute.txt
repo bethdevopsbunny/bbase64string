@@ -1,0 +1,15 @@
+/Users/beth/dotnetPrograms/bbase64string/bbase64string/bin/Debug/netcoreapp3.1/bbase64string.deps.json
+/Users/beth/dotnetPrograms/bbase64string/bbase64string/bin/Debug/netcoreapp3.1/bbase64string.runtimeconfig.json
+/Users/beth/dotnetPrograms/bbase64string/bbase64string/bin/Debug/netcoreapp3.1/bbase64string.runtimeconfig.dev.json
+/Users/beth/dotnetPrograms/bbase64string/bbase64string/bin/Debug/netcoreapp3.1/bbase64string.dll
+/Users/beth/dotnetPrograms/bbase64string/bbase64string/bin/Debug/netcoreapp3.1/bbase64string.pdb
+/Users/beth/dotnetPrograms/bbase64string/bbase64string/bin/Debug/netcoreapp3.1/StringClass.dll
+/Users/beth/dotnetPrograms/bbase64string/bbase64string/bin/Debug/netcoreapp3.1/StringClass.pdb
+/Users/beth/dotnetPrograms/bbase64string/bbase64string/obj/Debug/netcoreapp3.1/bbase64string.csprojAssemblyReference.cache
+/Users/beth/dotnetPrograms/bbase64string/bbase64string/obj/Debug/netcoreapp3.1/bbase64string.AssemblyInfoInputs.cache
+/Users/beth/dotnetPrograms/bbase64string/bbase64string/obj/Debug/netcoreapp3.1/bbase64string.AssemblyInfo.cs
+/Users/beth/dotnetPrograms/bbase64string/bbase64string/obj/Debug/netcoreapp3.1/bbase64string.csproj.CoreCompileInputs.cache
+/Users/beth/dotnetPrograms/bbase64string/bbase64string/obj/Debug/netcoreapp3.1/bbase64string.csproj.CopyComplete
+/Users/beth/dotnetPrograms/bbase64string/bbase64string/obj/Debug/netcoreapp3.1/bbase64string.dll
+/Users/beth/dotnetPrograms/bbase64string/bbase64string/obj/Debug/netcoreapp3.1/bbase64string.pdb
+/Users/beth/dotnetPrograms/bbase64string/bbase64string/obj/Debug/netcoreapp3.1/bbase64string.genruntimeconfig.cache

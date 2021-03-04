@@ -1,0 +1,9 @@
+/Users/beth/dotnetPrograms/bbase64string/StringClass/bin/Debug/netcoreapp3.1/StringClass.deps.json
+/Users/beth/dotnetPrograms/bbase64string/StringClass/bin/Debug/netcoreapp3.1/StringClass.dll
+/Users/beth/dotnetPrograms/bbase64string/StringClass/bin/Debug/netcoreapp3.1/StringClass.pdb
+/Users/beth/dotnetPrograms/bbase64string/StringClass/obj/Debug/netcoreapp3.1/StringClass.csprojAssemblyReference.cache
+/Users/beth/dotnetPrograms/bbase64string/StringClass/obj/Debug/netcoreapp3.1/StringClass.AssemblyInfoInputs.cache
+/Users/beth/dotnetPrograms/bbase64string/StringClass/obj/Debug/netcoreapp3.1/StringClass.AssemblyInfo.cs
+/Users/beth/dotnetPrograms/bbase64string/StringClass/obj/Debug/netcoreapp3.1/StringClass.csproj.CoreCompileInputs.cache
+/Users/beth/dotnetPrograms/bbase64string/StringClass/obj/Debug/netcoreapp3.1/StringClass.dll
+/Users/beth/dotnetPrograms/bbase64string/StringClass/obj/Debug/netcoreapp3.1/StringClass.pdb

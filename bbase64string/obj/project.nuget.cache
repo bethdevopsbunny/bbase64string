@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TFjzDTgYOIYjQLYoZ7OI3BjsfM+0oN/azHvoErKW2Fy8DXDLf43H+E7ZGzdOR4sr6YLOOOMfL6gFq3jJjfFZbg==",
+  "success": true,
+  "projectFilePath": "/Users/beth/dotnetPrograms/bbase64string/bbase64string/bbase64string.csproj",
+  "expectedPackageFiles": [
+    "/Users/beth/.nuget/packages/microsoft.netcore.app.runtime.osx-x64/3.1.12/microsoft.netcore.app.runtime.osx-x64.3.1.12.nupkg.sha512",
+    "/Users/beth/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/3.1.12/microsoft.aspnetcore.app.runtime.osx-x64.3.1.12.nupkg.sha512",
+    "/Users/beth/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.12/microsoft.netcore.app.host.osx-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

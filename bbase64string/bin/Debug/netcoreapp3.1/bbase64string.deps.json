@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "bbase64string/1.0.0": {
+        "dependencies": {
+          "StringClass": "1.0.0"
+        },
+        "runtime": {
+          "bbase64string.dll": {}
+        }
+      },
+      "StringClass/1.0.0": {
+        "runtime": {
+          "StringClass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bbase64string/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StringClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
